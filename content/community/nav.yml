@@ -1,0 +1,9 @@
+- title: Community Resources
+  items:
+    - id: support
+      title: Support
+
+- title: Tools
+  items:
+    - id: debugging-tools
+      title: Debugging

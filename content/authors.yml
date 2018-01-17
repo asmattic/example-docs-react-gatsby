@@ -1,0 +1,9 @@
+# Map of short name to more information. `name` will be used but if you don't
+# want to use your real name, just use whatever. If url is included, your name
+# will be a link to the provided url.
+moldfield:
+  name: Matthew Oldfield
+  url: https://github.com/asmattic
+sname:
+  name: Some Name
+  url: https://twitter.com/somename
